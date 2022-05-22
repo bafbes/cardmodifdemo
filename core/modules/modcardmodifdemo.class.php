@@ -57,7 +57,6 @@ class modcardmodifdemo extends DolibarrModules {
         $this->dirs = array();
 
         // Dependencies
-        $this->depends = array('modcardmodifdemo');
         $this->requiredby = array();
         $this->phpmin = array(5, 3);
 
